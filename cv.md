@@ -29,3 +29,48 @@ _I'm open to collaborating on any kind of movement, except hunger strike._
 ### Work experience
 
 Metallurgical plants from 2000 to the present day.
+### Skills
+<p>
+<img src="html_5_480px.png" width="64" height="64" alt="HTML5" /> 
+<img src="css3_480px.png" width="64" height="64" alt="CSS3" />
+<img src="joomla_480px.png" width="64" height="64" alt="JOOMLA" />
+<img src="webflow_480px.png" width="64" height="64" alt="WEBFLOW" />  
+</p>
+
+### Web-development experience
+
+<p>
+<a href="https://fabrika-kofes-stunning-site.webflow.io/" target="_blank" rel="noreferrer"><img src="webflow_480px.png" width="64" height="64" alt="WEBFLOW" /></a>
+<a href="https://xn------5cdjcbbnekiguh0f8i.xn--p1ai/" target="_blank" rel="noreferrer"><img src="joomla_480px.png" width="64" height="64" alt="JOOMLA" /></a>
+
+</p>
+
+### Education
+
+###### Secondary school
+##### Technical school
+#### Higher education _(unfinished )_
+
+### WebDev education
+
+##### Webflow _(course from Maxim Sokolov)_
+##### Joomla+SPPB+Helix Ultimate _(course from Dmitry Goncharov)_
+###### _several free courses from_ GB, GloAcademy, Webcademy, Stepik, HTML-Academy, Hexlet, WayUP and other.
+
+### Code fragment
+``` css
+body {
+    /* font: medium, 15px, 'Cormorant Garamond'; */
+    font-family: 'Cormorant Garamond';
+    font-size: 20px;
+    font-weight: 900;
+    /* font-style: italic; */
+    letter-spacing: normal;
+    color: rgba(75, 57, 34, 0.7);
+    background-color: rgba(214, 153, 73, 0.4);
+}
+```
+### Knowledge of languages
+
+#### Russian - native
+#### English - *pre*-Elementary
