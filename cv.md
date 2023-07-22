@@ -12,3 +12,20 @@ I want to travel, play sports and earn money by programming.
 _I'm open to collaborating on any kind of movement, except hunger strike._
 
 ==============================
+### Socials
+<p>
+<a href="https://discord.com/users/stepan_n_80" target="_blank" rel="noreferrer"><img src="discord_square_400px.png" width="64" height="64" /></a>
+<a href="https://www.github.com/StepaanN" target="_blank" rel="noreferrer"><img src="github_400px.png" width="64" height="64" /></a>
+<a href="https://t.me/HizenTraut" target="_blank" rel="noreferrer"><img src="telegram_app_400px.png" width="64" height="64" /></a>
+</p>
+
+### My Hobbies
+
+*   Movies
+*   YouTube
+*   Games
+*   Self-development
+
+### Work experience
+
+Metallurgical plants from 2000 to the present day.
